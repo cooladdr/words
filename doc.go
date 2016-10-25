@@ -1,6 +1,6 @@
-// WeChatAuto project doc.go
+// myEcho project doc.go
 
 /*
-WeChatAuto document
+myEcho document
 */
-package wxauto
+package main

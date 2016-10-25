@@ -1,0 +1,79 @@
+#container{
+    max-width: 640px;
+    margin: auto;
+}
+.hLine{
+	clear:both;
+	height:2px;
+	border:none;
+	border-top:1px solid #e6e1e1;
+}
+.floatClean{
+	clear:both;
+}
+input {
+    width: 100%;
+    height: 44px;
+    padding: 0 65px 0 10px;
+    font-size: 16px;
+    border: 0;
+    box-shadow: inset 1px 1px 11px rgba(0,0,0,.3);
+}
+.word-info{
+    margin-top: 30px;
+}
+
+.spelling {
+    font-size: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.pronunciation{
+    font-size: 14px;
+    margin: 0 15px;
+}
+.DefinitionShow{
+    margin-top: 20px;
+}
+.def-row{
+    margin: 10px 0;
+}
+.part{
+    font-weight: bold;
+}
+.show-example{
+    margin-left: 40px;
+    color: #0000ff;
+    font-size: 8px;
+    line-height: 8px;
+    cursor: pointer;
+}
+.example{
+    margin: 10px 0 10px 25px;
+}
+.word{
+	float:left;
+    margin: 0 5px;
+    text-decoration: underline;
+	font-size: 14px;
+}
+.word:hover{
+    cursor: pointer;
+    color: #0000ff;
+}
+.relation-row{
+    margin: 10px 0;
+	clear:both;
+/*	border-top:1px solid red;*/
+}
+.relation-title{
+	float:left;
+	margin: 0 5px;
+    font-size: 14px;
+}
+.relation-word-list{
+    margin-left: 20px;
+	margin-bottom:10px;
+	word-break: break-all;
+	word-wrap: break-word;
+}

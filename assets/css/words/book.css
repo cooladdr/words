@@ -1,0 +1,40 @@
+
+#container{
+    max-width: 640px;
+    margin: auto;
+}
+
+.hLine{
+	clear:both;
+	height:2px;
+	border:none;
+	border-top:1px solid #e6e1e1;
+}
+
+.words-show-block{
+    margin-left: 20px;
+/*	border:1px solid red*/
+}
+.word{
+    padding: 5px 5px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.Meaning{
+    padding: 15px 15px;
+}
+
+.note{
+	font-size:16px;
+	color:#c43922
+}
+
+.get-more{
+	padding: 5px 5px;
+	font-size: 16px;
+	text-align:center;
+	cursor:pointer;
+}
+.get-more:hover{
+	color:red;
+}

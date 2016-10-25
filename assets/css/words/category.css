@@ -1,0 +1,58 @@
+.category-title{
+    font-weight: bold;
+}
+#container{
+    max-width: 640px;
+    margin: auto;
+}
+.hLine{
+	clear:both;
+	height:2px;
+	border:none;
+	border-top:1px solid #e6e1e1;
+}
+.category-show-block{
+    /*border: 1px solid #ff0000;*/
+}
+.category-row{
+
+}
+
+.category{
+    /*border: 1px solid #ff0000;*/
+    padding: 10px 10px;
+    cursor: pointer;
+}
+.category:hover{
+    color: #0000ff;
+}
+.books-show-block{
+    margin-left: 20px;
+}
+.book{
+    padding: 10px 10px;
+    cursor: pointer;
+	color: rebeccapurple;
+}
+.book:hover{
+    color: #0000ff;
+}
+
+.words-show-block{
+    margin-left: 20px;
+}
+.word{
+    padding: 5px 5px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.Meaning{
+    padding: 15px 15px;
+}
+
+.note{
+	float:right;
+	clear:both;
+	font-size:16px;
+	color: #a9a6a6;
+}
