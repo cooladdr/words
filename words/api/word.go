@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 	"strconv"
-	"words/words/common"
+	"github.com/cooladdr/words/words/common"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/labstack/echo"

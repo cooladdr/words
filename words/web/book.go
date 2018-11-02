@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"io"
 	"net/http"
-	"words/words/common"
+	"github.com/cooladdr/words/words/common"
 
 	"github.com/labstack/echo"
 )

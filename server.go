@@ -2,8 +2,8 @@
 package main
 
 import (
-	"words/words/api"
-	"words/words/web"
+	"github.com/cooladdr/words/words/api"
+	"github.com/cooladdr/words/words/web"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/engine/standard"
